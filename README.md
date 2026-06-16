@@ -264,7 +264,7 @@ Computer Networks
 
 📧 Email: [tiwariawantika13@gmail.com](mailto:tiwariawantika13@gmail.com)
 
-💼 LinkedIn: [LinkedIn (https://www.linkedin.com/in/awantika-tiwari-aa6b97263/)]
+💼 LinkedIn: [[LinkedIn] (https://www.linkedin.com/in/awantika-tiwari-aa6b97263/)]
 
 🐙 GitHub: [[GitHub](https://github.com/AwantikaTiwari13/awantikatiwari13)]
 
