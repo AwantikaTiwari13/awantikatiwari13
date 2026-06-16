@@ -1,203 +1,273 @@
-# Hey, I'm Awantika Tiwari 
+# Awantika Tiwari
 
-### Software Engineer • Backend Developer • Full Stack Builder
-
-Final-year undergraduate at MNNIT Allahabad passionate about building reliable backend systems, real-time applications, and intelligent software products.
-
-Currently working as a Software Engineering Intern at Protium Finance, where I'm learning what it takes to build and maintain production-grade systems used by real users.
-
-I enjoy turning ideas into products, optimizing systems for performance, and solving complex engineering problems through clean and scalable solutions.
+### Software Engineer | Backend Developer | Full Stack Developer
 
 ---
 
-## 🚀 What I'm Focused On
+## 👨‍💻 About Me
 
-* Backend Engineering
-* Distributed Systems
-* Microservices Architecture
-* System Design
-* Performance Optimization
-* AI-Powered Applications
-* Problem Solving & DSA
+Hey 👋 I'm Awantika Tiwari, a Software Engineer passionate about building scalable backend systems, real-time applications, and intelligent software products.
 
----
+🎓 Final Year Undergraduate at MNNIT Allahabad
 
-## 💼 Experience
+💻 Software Engineering Intern @ Protium Finance
 
-### Software Engineering Intern | Protium Finance
+I love working on:
 
-**Jan 2026 – Present | Bengaluru**
+🚀 Backend Engineering
 
-At Protium, I've had the opportunity to work on production systems rather than isolated projects. My work revolves around backend services, REST APIs, performance optimization, security improvements, and debugging real-world issues.
+⚡ Performance Optimization
 
-Some contributions include:
+🏗️ Distributed Systems & Microservices
 
-* Developing scalable backend services and APIs using Java
-* Resolving security vulnerabilities identified during VAPT assessments
-* Optimizing database performance and reducing critical microservice latency from ~100ms to under 1ms
-* Participating in code reviews, testing, documentation, and production support
+🌐 Full Stack Development
 
-### What This Experience Taught Me
+🤖 Machine Learning Applications
 
-The most valuable lesson has been understanding how software behaves in production.
-
-Building projects teaches you how to write code. Working on production systems teaches you how to think.
-
-Through debugging incidents and analyzing failures, I learned how to trace issues across multiple layers of an application rather than jumping to conclusions.
-
-I became comfortable with:
-
-* Root cause analysis instead of surface-level fixes
-* Reading logs and understanding system behavior
-* Performance bottleneck identification
-* Database optimization techniques
-* Secure software development practices
-* Writing maintainable and testable code
-* Understanding how different services interact in a microservice ecosystem
-* Collaborating through code reviews and engineering discussions
-* Thinking about reliability, scalability, and observability before writing code
-
-This internship completely changed how I approach software engineering.
+💡 Data Structures & Algorithms
 
 ---
 
-## 🚀 Things I've Built
+# 💼 Experience
 
-### 🎬 MovieFlix
+## 🚀 Software Engineering Intern — Protium Finance
 
-An end-to-end movie recommendation platform built using machine learning.
+📍 Bengaluru | Jan 2026 - Present
 
-MovieFlix processes over one million movie records and generates recommendations using content-based filtering techniques. The platform also performs sentiment analysis on user reviews and provides rich movie exploration features.
+### ⚡ Backend Engineering
 
-#### Highlights
+Developed scalable backend services and RESTful APIs using Java.
 
-* Recommendation engine using CountVectorizer and Cosine Similarity
-* Sentiment Analysis using NLTK VADER
-* Real-time movie data integration
-* Fault-tolerant recommendation pipeline
-* Full-stack deployment
+Followed production-grade engineering practices including code reviews, testing, and documentation.
 
-#### What I Learned
+Collaborated on backend systems serving real-world business workflows.
 
-This project taught me that machine learning is far more about data quality and feature engineering than just model selection.
+### 🔐 Security & Reliability
 
-I gained hands-on experience with recommendation systems, large-scale data processing, model deployment, and designing systems that remain reliable even when external APIs fail.
+Resolved critical security vulnerabilities identified during VAPT assessments.
 
-**Tech:** Python, Flask, Pandas, Scikit-Learn, NLTK
+Performed root cause analysis and tracked defects across the complete resolution lifecycle.
 
----
+Improved application security and system reliability through proactive fixes.
 
-### 🚖 Quick Ride
+### ⚡ Performance Optimization
 
-A real-time ride-booking application inspired by modern ride-sharing platforms.
+Optimized database queries using indexing strategies.
 
-The platform enables riders and drivers to interact in real time using live location updates and event-driven communication.
+Reduced critical microservice query latency from ~100ms to under 1ms.
 
-#### Highlights
+Improved service responsiveness and reduced backend bottlenecks.
 
-* Live location tracking using Google Maps
-* Real-time communication with Socket.io
-* JWT Authentication
-* Ride lifecycle management
-* Dynamic route handling
+### 📚 Key Learnings
 
-#### What I Learned
+Debugging production issues from root cause instead of fixing symptoms.
 
-This project helped me understand how real-time systems differ from traditional request-response architectures.
+Understanding how microservices communicate and fail in real-world environments.
 
-I learned about WebSockets, event-driven communication, state synchronization, and designing APIs that support concurrent users.
+Analyzing logs, traces, and system behavior to identify bottlenecks.
 
-**Tech:** React, Express.js, MongoDB, Socket.io
+Writing maintainable and testable production-grade code.
+
+Database performance tuning and query optimization.
+
+Collaborating through code reviews and engineering discussions.
+
+Thinking about scalability, reliability, observability, and security while building software.
 
 ---
 
-### 💼 Work Wagon
+# 🚀 Featured Projects
 
-A full-stack job portal designed for recruiters and job seekers.
+## 🎬 MovieFlix — ML Movie Recommendation Platform
 
-Built with a strong focus on authentication, authorization, security, and scalable backend architecture.
+Machine Learning powered movie recommendation platform built using content-based filtering.
 
-#### Highlights
+### Features
 
-* JWT Authentication
-* Role-Based Access Control
-* Secure API Protection
-* CRUD Operations
-* Database Query Optimization
+✅ Recommendation Engine using Cosine Similarity
 
-#### What I Learned
+✅ Sentiment Analysis using NLTK VADER
 
-This project strengthened my understanding of authentication flows, authorization models, middleware architecture, and database indexing strategies.
+✅ Actor & Crew Exploration
 
-**Tech:** Node.js, Express.js, MongoDB
+✅ Autocomplete Search
+
+✅ Real-Time Movie Data Integration
+
+### Impact
+
+📊 Processed 1M+ movie records
+
+🎯 Built recommendation engine using CountVectorizer and Cosine Similarity
+
+⚡ Designed fault-tolerant recommendation pipeline
+
+🚀 Deployed complete end-to-end ML application
 
 ---
 
-## 🛠️ Technologies I Work With
+## 🚖 Quick Ride — Real-Time Ride Booking Platform
+
+Real-time ride-booking application inspired by modern ride-sharing systems.
+
+### Features
+
+✅ Google Maps Integration
+
+✅ JWT Authentication
+
+✅ Real-Time Location Tracking
+
+✅ Socket.io Based Communication
+
+✅ Ride Lifecycle Management
+
+### Impact
+
+⚡ Enabled low-latency rider-driver communication
+
+📍 Real-time location synchronization
+
+🔒 Secure session management with JWT authentication
+
+🚀 Built scalable event-driven backend architecture
+
+---
+
+## 💼 Work Wagon — Job Portal Platform
+
+Full-stack job portal platform connecting recruiters and job seekers.
+
+### Features
+
+✅ JWT Authentication
+
+✅ Role Based Access Control (RBAC)
+
+✅ Recruiter Job Management
+
+✅ Secure CRUD APIs
+
+✅ Database Query Optimization
+
+### Impact
+
+🔐 Built custom authorization middleware
+
+⚡ Improved API performance through indexing
+
+🏗️ Designed scalable backend architecture
+
+🚀 Securely managed recruiter workflows
+
+---
+
+# 🛠️ Tech Stack
+
+## 🧠 Skills
 
 ### Backend
 
-Java • Spring Boot • Node.js • Express.js
+Java | Spring Boot | Node.js | Express.js
 
-### Databases
+REST APIs | WebSockets
 
-MongoDB • MySQL
+Microservices | Distributed Systems
 
 ### Machine Learning
 
-Scikit-Learn • Pandas • NLTK
+Scikit-Learn
 
-### Developer Tools
+Pandas
 
-Git • GitHub • Postman
+NLTK
 
-### Core CS
+Recommendation Systems
+
+Sentiment Analysis
+
+### Databases
+
+MongoDB
+
+MySQL
+
+### Security
+
+Authentication
+
+Authorization
+
+RBAC
+
+JWT
+
+API Security
+
+### Fundamentals
 
 Data Structures & Algorithms
 
-Operating Systems
+Object-Oriented Programming
 
 DBMS
 
-Computer Networks
+Operating Systems
 
-Object-Oriented Programming
+Computer Networks
 
 ---
 
-## 🏆 Achievements
+# 🏆 Achievements
 
-🏅 Knight on LeetCode
+♟️ LeetCode Knight
 
 ⭐ Peak Rating: 1868
 
+🏆 Weekly Contest 460 Rank: 345 / 35,000+
+
+🏆 Weekly Contest 445 Rank: 729 / 24,000+
+
 💡 Solved 1100+ DSA Problems
 
-🏆 Rank 345 / 35,000+ participants in LeetCode Weekly Contest 460
-
-🏆 Rank 729 / 24,000+ participants in LeetCode Weekly Contest 445
+🎯 Strong Competitive Programming & Problem Solving Background
 
 ---
 
-## 🌱 Currently Exploring
+# 📊 Coding Profiles
 
-* System Design
-* Distributed Systems
-* Advanced Spring Boot
-* Microservices
-* Cloud Technologies
-* LLM Applications
+💻 LeetCode: awantika13
 
----
+💻 GeeksforGeeks: awantikatk3jg
 
-## 📫 Let's Connect
-
-📧 **Email:** [tiwariawantika13@gmail.com](mailto:tiwariawantika13@gmail.com)
-
-💼 **LinkedIn:** [[LinkedIn](https://www.linkedin.com/in/awantika-tiwari-aa6b97263/)]
-
-🐙 **GitHub:** [[GitHub](https://github.com/AwantikaTiwari13/awantikatiwari13/)]
+💻 Codolio: Awantika
 
 ---
 
-> Building software is fun. Understanding why it breaks, scales, and succeeds is even more interesting.
+# 🌱 Currently Learning
+
+🏗️ System Design
+
+⚡ Advanced Spring Boot
+
+🌐 Distributed Systems
+
+☁️ Cloud Technologies
+
+🤖 LLM Applications
+
+🚀 Microservices Architecture
+
+---
+
+# 🤝 Connect With Me
+
+📧 Email: [tiwariawantika13@gmail.com](mailto:tiwariawantika13@gmail.com)
+
+💼 LinkedIn: [LinkedIn (https://www.linkedin.com/in/awantika-tiwari-aa6b97263/)]
+
+🐙 GitHub: [[GitHub](https://github.com/AwantikaTiwari13/awantikatiwari13)]
+
+---
+
+⚡ Building scalable systems. Solving real-world problems. Learning every day.
