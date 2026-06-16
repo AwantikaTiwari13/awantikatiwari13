@@ -194,9 +194,9 @@ Object-Oriented Programming
 
 📧 **Email:** [tiwariawantika13@gmail.com](mailto:tiwariawantika13@gmail.com)
 
-💼 **LinkedIn:** Your LinkedIn URL
+💼 **LinkedIn:** [[LinkedIn](https://www.linkedin.com/in/awantika-tiwari-aa6b97263/)]
 
-🐙 **GitHub:** Your GitHub URL
+🐙 **GitHub:** [GitHub(https://github.com/AwantikaTiwari13/awantikatiwari13/)]
 
 ---
 
