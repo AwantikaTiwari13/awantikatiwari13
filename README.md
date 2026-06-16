@@ -196,7 +196,7 @@ Object-Oriented Programming
 
 💼 **LinkedIn:** [[LinkedIn](https://www.linkedin.com/in/awantika-tiwari-aa6b97263/)]
 
-🐙 **GitHub:** [GitHub(https://github.com/AwantikaTiwari13/awantikatiwari13/)]
+🐙 **GitHub:** [[GitHub](https://github.com/AwantikaTiwari13/awantikatiwari13/)]
 
 ---
 
